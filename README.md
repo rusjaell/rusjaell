@@ -12,13 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="40" alt="csharp logo"  />
 </div>
 
-###
-
-<br clear="both">
-
 <h1 align="center">Statistics</h1>
-
-###
 
 <br clear="both">
 
@@ -30,5 +24,3 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rusjaell&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
-
-###
