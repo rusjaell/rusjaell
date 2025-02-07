@@ -7,7 +7,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
 
 <h1 align="center">Statistics</h1>
